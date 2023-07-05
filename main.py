@@ -44,4 +44,3 @@ while not end_of_game:
 
     new_stages = hangman_art.stages
     print(new_stages[lives])
-
